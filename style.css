@@ -1,0 +1,16 @@
+body{
+	background-color: #262262;
+}
+
+h1{background-color: #967969;
+	margin-right: 25%;
+	margin-left: 25%;
+	text-align: center;
+	background-image:url("images/box.jpg");
+	color: white;
+}
+
+ul{list-style-type: none}
+
+li{display: inline;
+font-size: 14px;}
